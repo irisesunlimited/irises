@@ -110,7 +110,7 @@ function B40581(){
 document.getElementById('option1').value=5520815;
 AddToBasket();
 }
-function B40584{
+function B40584(){
 document.getElementById('option1').value=5520816;
 AddToBasket();
 }

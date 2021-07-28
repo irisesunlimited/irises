@@ -237,4 +237,4 @@ AddToBasket();
 function Br2060l15s(){
 document.getElementById('option1').value=5522482;
 AddToBasket();
-}
+};

@@ -190,7 +190,7 @@ function Br2060l3s(){
 document.getElementById('option1').value=5522470;
 AddToBasket();
 }
-function Br2060l4ss(){
+function Br2060l4s(){
 document.getElementById('option1').value=5522471;
 AddToBasket();
 }
